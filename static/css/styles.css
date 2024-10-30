@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+.card-img-top {
+    width: 80%;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+/* Customize the footer */
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
